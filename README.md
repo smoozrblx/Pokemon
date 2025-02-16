@@ -50,8 +50,3 @@ Les Flammes Ardentes (Walid) remporte le match 🏆🎉
 1. **Génération de joueurs**: Le programme génère quatre joueurs avec des équipes de six Pokémon chacun. Chaque joueur reçoit des Pokémon avec des statistiques et des types aléatoires.
 2. **Organisation de combats**: Les joueurs s'affrontent dans des matchs à élimination directe. Les combats sont simulés en tenant compte des statistiques et des types des Pokémon, ainsi que des attaques spéciales.
 3. **Affichage des résultats**: Le programme affiche les statistiques des Pokémon, les dégâts infligés et le résultat des combats. Les résultats des matchs sont affichés jusqu'à ce qu'un gagnant du tournoi soit déterminé.
-
-## Auteur
-
-- Rayane Benchokroun
-- Walid Madad
