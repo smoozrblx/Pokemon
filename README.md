@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce programme simule un combat Pokémon entre deux équipes de trois Pokémon chacune. Chaque Pokémon a un type (Feu, Eau, Plante, Électrique, Roche) qui influence les dégâts infligés. Les dégâts sont calculés en fonction de l'attaque, de la défense, de la vitesse et du type des Pokémon. Les Pokémon peuvent également activer une attaque spéciale avec une probabilité de 30% pour infliger des dégâts supplémentaires. Le programme affiche les statistiques des Pokémon, les dégâts infligés et le résultat du combat.
+Ce programme en C++ simule un combat Pokémon entre deux équipes de trois Pokémon chacune. Chaque Pokémon a un type (Feu, Eau, Plante, Électrique, Roche) qui influence les dégâts infligés. Les dégâts sont calculés en fonction de l'attaque, de la défense, de la vitesse et du type des Pokémon. Les Pokémon peuvent également activer une attaque spéciale avec une probabilité de 30% pour infliger des dégâts supplémentaires. Le programme affiche les statistiques des Pokémon, les dégâts infligés et le résultat du combat.
 
 ## Fonctionnalités
 
@@ -53,17 +53,5 @@ Les Flammes Ardentes (Walid) remporte le match 🏆🎉
 
 ## Auteur
 
-- Walid Madad
 - Rayane Benchokroun
-
-## Date de création
-
-- 2024-12-25
-
-## Dernière modification
-
-- 2025-01-25
-
-## Langue principale
-
-- Français
+- Walid Madad
